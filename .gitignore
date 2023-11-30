@@ -19,7 +19,7 @@ build/_vendor/pkg
 #*
 .#*
 *#
-*~
+*~*/**/.DS_Store
 .project
 .settings
 
